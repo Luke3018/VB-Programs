@@ -1,0 +1,30 @@
+body h1 {font-family: arial; font-size: 50px; text-align: center; color:white}
+
+body {background-image: url("P2background.png")}
+
+p {text-align: below; font-size: 20px; color: white}
+
+a {font-size:18px; color:white; padding: right}
+
+.link {text-align: center; font-size: 50px; height: 50px; width: 100%; background-color: #2273d6}
+
+#back {size: 100%}
+
+#leftside {position:absolute; left:0px; top: 200px; height: 100%; width: 300px; background-color: #2273d6}
+
+#rightside {position:absolute; right:0px; top: 200px; height: 100%; width: 300px; background-color: #2273d6}
+
+#center {height: 100px; position:absolute; left:320px; top:200px}
+
+#main {position: absolute; left:400px; top: 200px}
+
+#img {height: 840px; width: 1260px; position: absolute; left:320px; top: 200px}
+
+#img2 {height: 840px; width: 1260px; position: absolute; left:500px; top: 200px}
+
+#info {position: absolute; left: 0px; top: 200px; height:100%; width: 320px; background-color:#2273d6}
+
+.disclamer {position: absolute; top: 110%; width: 1000px; left: 500px; color:white}
+
+
+
