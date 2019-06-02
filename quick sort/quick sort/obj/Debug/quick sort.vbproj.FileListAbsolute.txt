@@ -1,0 +1,11 @@
+c:\users\luke\documents\visual studio 2015\Projects\quick sort\quick sort\bin\Debug\quick sort.exe.config
+c:\users\luke\documents\visual studio 2015\Projects\quick sort\quick sort\bin\Debug\quick sort.exe
+c:\users\luke\documents\visual studio 2015\Projects\quick sort\quick sort\bin\Debug\quick sort.pdb
+c:\users\luke\documents\visual studio 2015\Projects\quick sort\quick sort\bin\Debug\quick sort.xml
+c:\users\luke\documents\visual studio 2015\Projects\quick sort\quick sort\obj\Debug\quick sort.vbprojResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2015\Projects\quick sort\quick sort\obj\Debug\quick_sort.Form1.resources
+c:\users\luke\documents\visual studio 2015\Projects\quick sort\quick sort\obj\Debug\quick_sort.Resources.resources
+c:\users\luke\documents\visual studio 2015\Projects\quick sort\quick sort\obj\Debug\quick sort.vbproj.GenerateResource.Cache
+c:\users\luke\documents\visual studio 2015\Projects\quick sort\quick sort\obj\Debug\quick sort.exe
+c:\users\luke\documents\visual studio 2015\Projects\quick sort\quick sort\obj\Debug\quick sort.xml
+c:\users\luke\documents\visual studio 2015\Projects\quick sort\quick sort\obj\Debug\quick sort.pdb
